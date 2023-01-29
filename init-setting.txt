@@ -1,0 +1,16 @@
+
+### typescript 모듈 설치
+npm i typescript
+
+### tsconfig.json 생성
+lib : typescript 버전
+strict : true 로 세팅해둬야 typescript는 의미있다.
+moduleResolution : calssic or node -> node에서는 node로 옛날 모듈은 classic 사용
+
+### 모듈 설치
+npm i @types/node
+
+
+
+
+
